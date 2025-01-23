@@ -27,12 +27,8 @@ Aims to evaluate various aspects of the business, such as sales, inventory, cust
  <a href="https://github.com/hqakmal/Bike-Store-Analysis-SQL/blob/main/SQL%20Analysis.sql">SQL Code</a>
  
 ## Project Insight
-- The highest sales occurred in May ($15,040), and the lowest sales occurred in August ($3,310).
-- The product categories with the highest appeal among customers are clothing (196) followed by electronics (174) and beauty (167).
-- The biggest interest in beauty products is in the age group (18-37), for clothing products in the age group (18-27), and for electronic products in the age group (28-37).
-- The highest expenditure was made by the age group (28-37) at ($28,795) and the lowest expenditure was in the age group (58-67) at ($10,005).
-- The sales trend for beauty and electronic products occurred in May, and for clothing products in February.
-- Sales of products priced at $500 accounted for (58.64%) of the company's total sales.
-
-## Final Conclusion:
-To increase the company’s sales, the marketing strategy plan focuses on aged 28-37. This demographic is a key consumer segment, as they often make significant household and lifestyle purchases. Marketing focus should also be given to the $500 price point, which is the heart of the company’s sales. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+- Expand in New York: Open more stores in different ZIP codes in New York due to a large number of customers, enhancing accessibility.
+- Seasonal Strategy: Utilize data on average monthly sales and units ordered by category to develop targeted marketing strategies and promotions.
+- Analyze High Revenue Months: Investigate reasons behind higher average monthly sales in January, April, and June to replicate success in other months.
+- Brand Diversification: Increase the assortment of the most represented brand to meet diverse customer demands and needs.
+- Focus on Bestsellers: Pay special attention to bestselling products for optimized stocking and promotion.
