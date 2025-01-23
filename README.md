@@ -4,7 +4,7 @@
 Aims to evaluate various aspects of the business, such as sales, inventory, customers, and product performance. This analysis can identify sales trends, best-selling products, customer preferences. The results of this analysis also help data-based decision making to support business growth
 
 ## Dataset used
-- <a href="https://github.com/hqakmal/Sales-Analysis-Excel/blob/main/Sales%20Analysis.xlsx">Dataset</a>
+- <a href="https://github.com/hqakmal/Bike-Store-Analysis-SQL/tree/main/Bike%20data">Dataset</a>
 
 ## Questions (KPIs)
 - Are there discernible patterns in sales across different time periods?
